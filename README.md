@@ -1,2 +1,2 @@
 # hellow-world
-Just an repository
+Just a repository
